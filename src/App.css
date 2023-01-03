@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.body {
+  align-content: center;
+}
+
+.container ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.container li {
+  width: 2rem;
+  height: 1rem;
+  background-color: red;
+  float: left;
+}
